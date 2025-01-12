@@ -1,5 +1,4 @@
 #include<bits/stdc++.h>
-#include<MATH.H>
 using namespace std;
 
 int main(){
